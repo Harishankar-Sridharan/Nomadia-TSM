@@ -1,2 +1,0 @@
-# Nomadia TSM
-
